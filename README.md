@@ -1,4 +1,4 @@
-# staticangel
+# Hi i am : StaticAngel
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=StaticAngel;DDLC+Enjoyer;Python+Programmer;Japanese+%F0%9F%87%AF%F0%9F%87%B5" />
