@@ -1,7 +1,7 @@
 # staticangel
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=F7A8C9&center=true&vCenter=true&width=500&lines=17+y%2Fo+Developer;Japanese+%F0%9F%87%AF%F0%9F%87%B5;Building+cool+stuff;DDLC+Enjoyer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=StaticAngel;DDLC+Enjoyer;Python+Programmer;Japanese+%F0%9F%87%AF%F0%9F%87%B5" />
 </p>
 
 <p align="center">
